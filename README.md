@@ -14,3 +14,8 @@
 | `no-op` | 看起來有指令，但實際不影響 agent 行為的內容 |
 | `minimal diff` | 只做必要修改，避免不相關的大改或重構 |
 | `local patterns first` | 先看現有專案慣例，照既有風格與架構實作 |
+
+# Lightweight prompt
+
+表達方式使用 ascii 加上少量文字，
+依目標選用表格、卡片、決策樹、類比、時間軸
